@@ -25,7 +25,23 @@
 *Please note that Sequelize v5.21.7 is no longer available (EOL) since v6 has been the current version. Link provided above is for the most current version*
 
 ## Screenshot:
+* [Full Walkthrough Tutorial](https://youtu.be/kX8aS5ZkIhw)
 
+MySQL Snippet
+
+![GIF showcasing MySQL Shell commands](./assets/MYSQL%20portion.gif)
+
+NPM Snippet
+
+![GIF showcasing NPM Terminal commands](./assets/NPM%20portion.gif)
+
+Insomnia Snippet
+
+![GIF showcasing Insomnia API Testing, part 1](./assets/Insomnia%20Portion%201.gif)
+
+![GIF showcasing Insomnia API Testing, part 2](./assets/Insomnia%20Portion%202.gif)
+
+![GIF showcasing Insomnia API Testing, part 3](./assets/Insomnia%20Portion%203.gif)
 
 ## Installation:
 * Download the zip file, or clone to your local machine.
