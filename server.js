@@ -1,7 +1,11 @@
+// NPM Package declarations
 const express = require('express');
 const routes = require('./routes');
-// import sequelize connection
 
+// import sequelize connection
+const sequelize = require('../config/connection');
+
+// Server app and Port declarations
 const app = express();
 const PORT = process.env.PORT || 3001;
 
