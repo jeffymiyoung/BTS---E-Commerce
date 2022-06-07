@@ -1,3 +1,4 @@
+// Seed Code provided by Bootcamp
 const { Tag } = require('../models');
 
 const tagData = [

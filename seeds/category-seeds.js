@@ -1,3 +1,4 @@
+// Seed Code provided by Bootcamp
 const { Category } = require('../models');
 
 const categoryData = [

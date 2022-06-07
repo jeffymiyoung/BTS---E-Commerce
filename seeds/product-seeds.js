@@ -1,3 +1,4 @@
+// Seed Code provided by Bootcamp
 const { Product } = require('../models');
 
 const productData = [
