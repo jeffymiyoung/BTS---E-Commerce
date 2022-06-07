@@ -3,7 +3,7 @@ const express = require('express');
 const routes = require('./routes');
 
 // import sequelize connection
-const sequelize = require('../config/connection');
+const sequelize = require('./config/connection');
 
 // Server app and Port declarations
 const app = express();
