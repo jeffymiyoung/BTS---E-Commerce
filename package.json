@@ -1,7 +1,7 @@
 {
   "name": "module-13-challenge-orm",
   "version": "1.0.0",
-  "description": "",
+  "description": "E Commerce Back End Application via Express and MySQL",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -11,10 +11,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@work.github.com:coding-boot-camp/module-13-challenge-orm.git"
+    "url": "https://github.com/jeffymiyoung/BTS---E-Commerce"
   },
   "keywords": [],
-  "author": "",
+  "author": "Jeffrey Young",
   "license": "ISC",
   "devDependencies": {
     "nodemon": "^2.0.3"
