@@ -1,4 +1,7 @@
+// NPM Package declarations
 const router = require('express').Router();
+
+// import important parts of sequelize library
 const { Category, Product } = require('../../models');
 
 // The `/api/categories` endpoint
@@ -25,4 +28,5 @@ router.delete('/:id', (req, res) => {
   // delete a category by its `id` value
 });
 
+// Export for external
 module.exports = router;
