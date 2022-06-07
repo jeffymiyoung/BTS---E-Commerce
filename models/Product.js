@@ -43,8 +43,9 @@ Product.init(
     },
     category_id: {
       type: DataTypes.INTEGER,
-      // foreign key for Category Table/ID for reference
+      // foreign key
       references: {
+        // category association
         model: 'category',
         key: 'id'
       }
